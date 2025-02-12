@@ -6,7 +6,13 @@ FineTurning练习：
 
 
 
+
+
+
+
 开源DeepSeek-R1 复现代码
+
+{% embed url="https://github.com/deepseek-ai/DeepSeek-R1" %}
 
 {% embed url="https://github.com/huggingface/open-r1/tree/main" %}
 
